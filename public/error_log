@@ -1,0 +1,10 @@
+[03-Dec-2018 11:18:48 UTC] PHP Parse error:  syntax error, unexpected ':', expecting ';' or '{' in /home2/procharb/cartradingcontents/vendor/doctrine/inflector/lib/Doctrine/Common/Inflector/Inflector.php on line 265
+[03-Dec-2018 15:15:17 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home2/procharb/cartradingcontents/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[03-Dec-2018 15:20:10 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home2/procharb/cartradingcontents/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[04-Dec-2018 02:51:02 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home2/procharb/cartradingcontents/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[04-Dec-2018 02:51:18 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home2/procharb/cartradingcontents/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[04-Dec-2018 02:51:20 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home2/procharb/cartradingcontents/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[04-Dec-2018 02:51:28 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home2/procharb/cartradingcontents/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[04-Dec-2018 02:51:41 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home2/procharb/cartradingcontents/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[04-Dec-2018 03:03:05 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home2/procharb/cartradingcontents/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
+[04-Dec-2018 03:05:31 UTC] PHP Fatal error:  Default value for parameters with a class type hint can only be NULL in /home2/procharb/cartradingcontents/vendor/symfony/css-selector/CssSelectorConverter.php on line 34
